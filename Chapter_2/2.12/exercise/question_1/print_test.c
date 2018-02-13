@@ -1,11 +1,10 @@
 #include <stdio.h>
 int main (void)
 {
-    printf("Bob lee");    
+    printf("Bob lee\n");    
     printf("Bob");
-    printf(" lee");
-    printf("Bob \n lee");
-    getchar()
+    printf("lee\n");
+    printf("Bob \nlee\n");
     return 0;
     
 }
